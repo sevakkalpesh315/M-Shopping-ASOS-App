@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/kalpesh/Desktop/Android_5L/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-d548b45eaf21f763957009cdff6aa4a3bc2a677a.jar" />
+    </item>
+    <item
+        jar="/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="2bbc507cf15cd697d2834099d26446159ec8d98e">
+        <dex dex="/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/build/intermediates/pre-dexed/debug/volley-5445cb3a246cbed7cb4e598f2d8c8f27c5b9702f.jar" />
+    </item>
+
+</items>

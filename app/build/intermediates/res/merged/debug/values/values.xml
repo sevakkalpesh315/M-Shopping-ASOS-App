@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="add">#17d829</color>
+    <color name="bg">#a2a2a2</color>
+    <color name="btn_bg">#CCCCCC</color>
+    <color name="green">#16dd0c</color>
+    <color name="orange">#ffb10b</color>
+    <color name="overscroll">#33b5e5</color>
+    <color name="txt">#000000</color>
+    <color name="white">#ffffff</color>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">ASOS</string>
+    <string name="bagTxt">Bag</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="men">Shop Men</string>
+    <string name="starTxt">Star</string>
+    <string name="women">Shop Women</string>
+    <!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="customActionBarTheme" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/white</item>
+        <item name="android:titleTextStyle">@style/customTheme.ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="customTheme" parent="@android:style/Theme.Holo.Light.DarkActionBar">
+        <item name="android:actionBarStyle">@style/customActionBarTheme</item>
+    </style>
+    <style name="customTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/txt</item>
+    </style>
+</resources>

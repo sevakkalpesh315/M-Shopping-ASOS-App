@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item>
+        <shape android:shape="rectangle" >
+            <solid android:color="#dd9700" />
+        </shape>
+    </item>
+    <item
+        android:left="5dp"
+        android:right="5dp"
+        android:top="5dp">
+        <shape android:shape="rectangle" >
+            <solid android:color="#d6d4d4" />
+        </shape>
+    </item>
+
+</layer-list><!-- From: file:/Users/kalpesh/Desktop/UK_BATCH_3/Day14_GCM/Asos/app/src/main/res/drawable/border.xml -->

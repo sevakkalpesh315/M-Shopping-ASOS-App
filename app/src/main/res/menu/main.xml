@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_star"
+        android:icon="@drawable/ic_star"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/starTxt"/>
+    <item
+        android:id="@+id/action_bag"
+        android:actionLayout="@layout/sample_menu"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:title="@string/bagTxt"/>
+
+</menu>

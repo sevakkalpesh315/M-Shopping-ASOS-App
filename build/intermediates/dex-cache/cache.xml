@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="/Users/kalpesh/Desktop/Test_For_Guys/ASOS/Code/Asos/app/libs/volley.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="2bbc507cf15cd697d2834099d26446159ec8d98e">
+        <dex dex="/Users/kalpesh/Desktop/Test_For_Guys/ASOS/Code/Asos/app/build/intermediates/pre-dexed/debug/volley-71c859164f0d2f61c972ae0607e5a062d52b3e6f.jar" />
+    </item>
+    <item
         jar="/Users/kalpesh/Desktop/Android_5L/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
         jumboMode="false"
         revision="23.0.0 rc2"

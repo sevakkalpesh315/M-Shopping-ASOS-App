@@ -1,11 +1,11 @@
 # M-Shopping-ASOS-App
 M-Shopping ASOS App
-![Alt Text](http://i.imgur.com/PfUj0n3.gif)
 
 
-                                      ASOS Practical Test for the iOS/Android Developer 
 
-Develop a minimal ASOS Fashion Browser app for iOS-Android. The user user must be able to see a list of product categories (for men and women), browse the products of each category, save items for later or see the full details. Please refer to the companion iOS_Exercise_Mockup.pdf for more details.
+                                      ASOS Minimal Vialble Product
+
+Use Case: Develop a minimal ASOS Fashion Browser app for iOS-Android. The user user must be able to see a list of product categories (for men and women), browse the products of each category, save items for later or see the full details. Please refer to the companion iOS_Exercise_Mockup.pdf for more details.
 
 Notes
 1.	Try to recreate the UI as shown in the mockup: white navigation bar, flat design, sidebar categories menu with tabbed interface to switch between men and women, ...
